@@ -1,0 +1,12 @@
+.git
+.ipynb_checkpoints
+modules
+output.txt
+output_test.csv
+README.md
+requirements.txt
+Sample100.csv
+test.csv
+uc
+Week_1.ipynb
+Week_2.py
