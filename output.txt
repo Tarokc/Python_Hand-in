@@ -1,3 +1,4 @@
+..\Python_Hand-in\bones.txt
 ..\Python_Hand-in\folder_filenames.txt
 ..\Python_Hand-in\output.txt
 ..\Python_Hand-in\output_test.csv
@@ -5,7 +6,9 @@
 ..\Python_Hand-in\requirements.txt
 ..\Python_Hand-in\Sample100.csv
 ..\Python_Hand-in\test.csv
+..\Python_Hand-in\uc
 ..\Python_Hand-in\Week_1.ipynb
+..\Python_Hand-in\Week_2.ipynb
 ..\Python_Hand-in\Week_2.py
 ..\Python_Hand-in\.ipynb_checkpoints\Week_1-checkpoint.ipynb
 ..\Python_Hand-in\.ipynb_checkpoints\Week_2-checkpoint.ipynb

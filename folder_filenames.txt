@@ -1,5 +1,7 @@
 .git
 .ipynb_checkpoints
+bones.txt
+folder_filenames.txt
 modules
 output.txt
 output_test.csv
@@ -9,4 +11,5 @@ Sample100.csv
 test.csv
 uc
 Week_1.ipynb
+Week_2.ipynb
 Week_2.py
