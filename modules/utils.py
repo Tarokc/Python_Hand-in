@@ -17,10 +17,21 @@ def get_all_file_names(folderpath, out='output.txt'):
                 '.git'] not in ['.ipynb_checkpoints']]
             for filename in files:
                 output.write(os.path.join(root, filename) + "\n")
+        print("File paths writen to: " + out)
 
 
 def print_line_one(file_names):
     """takes a list of filenames and print the first line of each"""
+    with open(file_names.strip()) as file_names:
+        # print(file_names.readlines())
+        for file_name in file_names.readlines():
+            with open(file_name.strip()) as file:
+                print("File name: " + file_name +
+                      "First line: " + file.readline())
+            # for file in file_names:
+            #     with open(file) as file_content:
+            #         print(file_content)
+            # with open(file) as file:
 
 
 def print_emails(file_names):

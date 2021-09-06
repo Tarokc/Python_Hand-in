@@ -41,4 +41,7 @@ from modules import utils
 
 path = "..\\Python_Hand-in"
 #utils.get_file_names(path, 'folder_filenames.txt')
-utils.get_all_file_names(path)
+# utils.get_all_file_names(path)
+
+file_names = "output.txt"
+utils.print_line_one(file_names)
