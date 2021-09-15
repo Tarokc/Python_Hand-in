@@ -1,24 +1,60 @@
-..\Python_Hand-in\bones.txt
-..\Python_Hand-in\folder_filenames.txt
-..\Python_Hand-in\output.txt
-..\Python_Hand-in\output_test.csv
-..\Python_Hand-in\README.md
-..\Python_Hand-in\requirements.txt
-..\Python_Hand-in\Sample100.csv
-..\Python_Hand-in\test.csv
-..\Python_Hand-in\uc
-..\Python_Hand-in\Week_1.ipynb
-..\Python_Hand-in\Week_2.ipynb
-..\Python_Hand-in\Week_2.py
-..\Python_Hand-in\.ipynb_checkpoints\Week_1-checkpoint.ipynb
-..\Python_Hand-in\.ipynb_checkpoints\Week_2-checkpoint.ipynb
-..\Python_Hand-in\.ipynb_checkpoints\Week_3-checkpoint.ipynb
-..\Python_Hand-in\modules\file_handler.py
-..\Python_Hand-in\modules\utils.py
-..\Python_Hand-in\modules\webget.py
-..\Python_Hand-in\modules\__init__.py
-..\Python_Hand-in\modules\__pycache__\file_handler.cpython-39.pyc
-..\Python_Hand-in\modules\__pycache__\file_manager.cpython-39.pyc
-..\Python_Hand-in\modules\__pycache__\utils.cpython-39.pyc
-..\Python_Hand-in\modules\__pycache__\webget.cpython-39.pyc
-..\Python_Hand-in\modules\__pycache__\__init__.cpython-39.pyc
+stud_name,gender,course_name,teacher,ETCS,classroom,grade,img_url
+Dylan,male,Introduction to Data Science,Prof. Williams,15,824,7,some_url
+Dylan,male,Google IT Support,Prof. Hall,5,501,2,some_url
+Dylan,male,Data Science Fundamentals with Python and SQL,Prof. Perez,25,779,12,some_url
+Dylan,male,Google IT Support,Prof. Clark,25,140,10,some_url
+Dylan,male,Machine Learning,Prof. Martinez,20,124,2,some_url
+Dylan,male,Introduction to Data Science,Prof. Green,5,177,10,some_url
+Dylan,male,Google IT Support,Prof. Young,10,758,7,some_url
+Adalynn,female,Introduction to Data Science,Prof. Rivera,20,825,-3,some_url
+Adalynn,female,Google IT Support,Prof. Garcia,10,37,10,some_url
+Adalynn,female,Data Science Fundamentals with Python and SQL,Prof. Scott,25,296,7,some_url
+Adalynn,female,Data Science Fundamentals with Python and SQL,Prof. Taylor,10,383,10,some_url
+Adalynn,female,Google Project Management,Prof. Anderson,20,510,10,some_url
+Adalynn,female,Machine Learning,Prof. Taylor,15,518,4,some_url
+Adalynn,female,Introduction to Data Science,Prof. Anderson,15,66,10,some_url
+Adalynn,female,Google Data Analytics,Prof. Hall,10,144,10,some_url
+Nathan,male,IBM Data Science,Prof. Thomas,10,102,4,some_url
+Nathan,male,IBM Data Science,Prof. Adams,20,683,7,some_url
+Clara,female,IBM Data Analyst,Prof. Clark,25,463,12,some_url
+Jeremiah,male,Google IT Support,Prof. Garcia,20,642,7,some_url
+Jeremiah,male,Deep Learning,Prof. Hernandez,5,904,0,some_url
+Ximena,female,Introduction to Data Science,Prof. Davis,20,554,10,some_url
+Ximena,female,Deep Learning,Prof. Hernandez,5,503,-3,some_url
+Ximena,female,Google Data Analytics,Prof. Clark,25,226,12,some_url
+Ximena,female,Machine Learning,Prof. Taylor,10,533,12,some_url
+Ximena,female,Data Science Fundamentals with Python and SQL,Prof. Perez,15,78,10,some_url
+Ximena,female,Deep Learning,Prof. Rodriguez,25,793,2,some_url
+Ximena,female,Google Project Management,Prof. Rivera,20,904,2,some_url
+Ximena,female,Data Science Fundamentals with Python and SQL,Prof. Rivera,5,761,10,some_url
+Ximena,female,Google Project Management,Prof. Nguyen,25,703,4,some_url
+Ximena,female,Introduction to Data Science,Prof. Scott,20,633,0,some_url
+Brian,male,Introduction to Data Science,Prof. Clark,5,5,0,some_url
+Brian,male,IBM Data Analyst,Prof. Moore,10,680,12,some_url
+Brian,male,Google IT Support,Prof. Jackson,10,889,0,some_url
+Brian,male,IBM Data Science,Prof. Young,10,574,0,some_url
+Brian,male,Google Data Analytics,Prof. Baker,20,338,2,some_url
+Brian,male,Google Data Analytics,Prof. Mitchell,20,586,10,some_url
+Brian,male,Google IT Support,Prof. Garcia,25,29,-3,some_url
+Camila,female,Data Science Fundamentals with Python and SQL,Prof. Scott,10,692,2,some_url
+Camila,female,Google IT Support,Prof. Wright,10,887,-3,some_url
+Camila,female,Deep Learning,Prof. Walker,10,627,12,some_url
+Camila,female,Google Project Management,Prof. Torres,25,950,7,some_url
+Camila,female,IBM Data Analyst,Prof. Martin,10,105,12,some_url
+Camila,female,Machine Learning,Prof. Hernandez,5,836,-3,some_url
+Camila,female,Google Project Management,Prof. Torres,5,526,4,some_url
+Camila,female,Machine Learning,Prof. Rivera,15,993,7,some_url
+Camila,female,Google Data Analytics,Prof. Perez,25,22,4,some_url
+Daniel,male,Introduction to Data Science,Prof. Torres,20,800,10,some_url
+Daniel,male,Data Science Fundamentals with Python and SQL,Prof. Hill,5,742,4,some_url
+Daniel,male,Google UX Design,Prof. Green,15,315,0,some_url
+Daniel,male,Deep Learning,Prof. Flores,10,54,0,some_url
+Daniel,male,Google Project Management,Prof. Thomas,5,350,4,some_url
+Daniel,male,Google UX Design,Prof. Nguyen,15,418,4,some_url
+Daniel,male,IBM Data Analyst,Prof. Mitchell,25,292,12,some_url
+Daniela,female,Google Data Analytics,Prof. Mitchell,15,334,4,some_url
+Daniela,female,Google Project Management,Prof. Lewis,20,889,12,some_url
+Daniela,female,Deep Learning,Prof. Hill,5,649,2,some_url
+Daniela,female,Google Data Analytics,Prof. Lopez,20,330,0,some_url
+Daniela,female,Google UX Design,Prof. Martinez,20,686,10,some_url
+Daniela,female,Google UX Design,Prof. Walker,5,87,0,some_url
